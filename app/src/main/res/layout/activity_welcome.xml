@@ -16,13 +16,13 @@
             android:id="@+id/welcomeLabel"
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:text="Welcome!"/>
+            android:text="@string/welcome"/>
 
         <TextView
                 android:id="@+id/Hello_Text"
                 android:layout_width="match_parent"
                 android:layout_height="80dp"
-                android:text="Hello..."/>
+                android:text="@string/hello"/>
 
     </LinearLayout>
 </RelativeLayout>
